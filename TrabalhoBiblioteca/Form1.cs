@@ -25,5 +25,11 @@ namespace TrabalhoBiblioteca
             Cadastrarusuario cadastrarusuario = new Cadastrarusuario();
             cadastrarusuario.Show();
         }
+
+        private void btnAlocarlivro_Click(object sender, EventArgs e)
+        {
+            alocarlivro alocarlivro = new alocarlivro();
+            alocarlivro.Show();
+        }
     }
 }

@@ -65,6 +65,7 @@
             btnAlocarlivro.TabIndex = 2;
             btnAlocarlivro.Text = "Alocar Livro";
             btnAlocarlivro.UseVisualStyleBackColor = true;
+            btnAlocarlivro.Click += btnAlocarlivro_Click;
             // 
             // btnfechar
             // 

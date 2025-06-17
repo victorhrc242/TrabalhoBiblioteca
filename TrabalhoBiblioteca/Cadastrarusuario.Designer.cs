@@ -68,7 +68,6 @@
             txtusuario.Name = "txtusuario";
             txtusuario.Size = new Size(308, 23);
             txtusuario.TabIndex = 4;
-            txtusuario.TextChanged += txtusuario_TextChanged;
             // 
             // txtsobrenome
             // 
